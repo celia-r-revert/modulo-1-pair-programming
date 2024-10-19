@@ -1,4 +1,4 @@
-##Codigo de sesión de pair programming del 19 de octubre
+## Codigo de sesión de pair programming del 19 de octubre
 
 ##creación de una web de Spotify a 480px y a 1000px
 
